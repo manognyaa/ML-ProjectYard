@@ -9,7 +9,7 @@ h2==3.2.0
 hpack==3.0.0
 hstspreload==2020.12.22
 httpcore==0.9.1
-httpx==0.13.3
+httpx==0.23.0
 hyperframe==5.2.0
 idna==2.10
 PyAudio==0.2.11
@@ -19,5 +19,5 @@ six==1.15.0
 sniffio==1.2.0
 soupsieve==2.2
 SpeechRecognition==3.8.1
-urllib3==1.26.3
+urllib3==1.26.5
 wikipedia==1.4.0
