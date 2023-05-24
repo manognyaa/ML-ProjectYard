@@ -13,7 +13,7 @@ httpx==0.13.3
 hyperframe==5.2.0
 idna==2.10
 PyAudio==0.2.11
-requests==2.25.1
+requests==2.31.0
 rfc3986==1.4.0
 six==1.15.0
 sniffio==1.2.0
