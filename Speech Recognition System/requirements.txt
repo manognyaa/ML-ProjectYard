@@ -11,7 +11,7 @@ hstspreload==2020.12.22
 httpcore==0.9.1
 httpx==0.13.3
 hyperframe==5.2.0
-idna==2.10
+idna==3.7
 PyAudio==0.2.11
 requests==2.25.1
 rfc3986==1.4.0
