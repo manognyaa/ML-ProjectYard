@@ -4,3 +4,4 @@ pandas==1.0.1
 tensorflow
 keras
 
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
