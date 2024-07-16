@@ -4,3 +4,4 @@ pandas==1.0.1
 tensorflow
 keras
 
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
