@@ -13,7 +13,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==6.0.0
 gast==0.3.3
 geojson==2.5.0
 google-auth==1.15.0
@@ -61,7 +61,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
-protobuf==3.8.0
+protobuf==4.25.8
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
